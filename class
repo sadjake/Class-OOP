@@ -1,0 +1,36 @@
+class person {
+ 
+    String name, nationality, occupation;
+    int age;
+    boolean mentalState;
+    
+    public person () {
+        name = "Joe";
+        nationality = "Morrocan";
+        occupation = "government worker";
+        age = "9";
+        mentalState = true;
+        
+    } 
+    
+    public void name () {
+        system.out.println(name);  
+    } 
+    
+    public void nationality () {
+        system.out.println(nationality);
+    }
+    
+    public void occupation () {
+        system.out.println(occupation);
+    }
+    
+    public void age () {
+        system.out.println(age);
+    }
+    
+    public void mentalState () {
+        system.out.println("Alive: " 
+    }
+   
+}
